@@ -2,4 +2,4 @@ Hello~!
 
 
 
-![text](url)![LOVELY].(LOVELY.jpg)
+![LOVELY](LOVELY.jpg)
